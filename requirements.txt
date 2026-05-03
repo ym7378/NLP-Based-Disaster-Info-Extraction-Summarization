@@ -1,0 +1,13 @@
+numpy
+pandas
+nltk
+spacy
+scikit-learn
+torch
+transformers
+praw
+feedparser
+regex
+streamlit
+tqdm
+matplotlib
